@@ -44,6 +44,8 @@ Routing: React Router
 
 State Management: React Hooks, Context API
 
-Styling: TailwindCSS
+Styling: TailwindCSS 
 
 Data Integration: Custom data with limited amount of information (as of now)
+
+Other library: React Toastify (for adding sleek and non-intrusive notifications)
